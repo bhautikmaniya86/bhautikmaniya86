@@ -5,7 +5,7 @@ A React JS developer with 3+ years of experience. Likely to have a solid underst
 # 📫 Contact me:
 Email: bhautikmaniya86@gmail.com
 
-# 💻 My Skill:
+# 💻 My Skills:
 
 ### Programming Languages:
 
