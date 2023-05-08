@@ -1,3 +1,4 @@
+# Purvik Commit 
 # 💫 About Me:
 A React JS developer with 3+ years of experience. Likely to have a solid understanding of React and its related technologies, as well as experience in building complex web applications using React. Expitertize in building modern, scalable, and performant web applications using the ReactJS library.Develop complex user interfaces, implement backend functionality, work with APIs, and troubleshoot technical issues.<br><br>➡️  Strong problem-solving and critical thinking abilities through my work experience.<br>➡️  Identify and troubleshoot technical issues quickly and efficiently, and have experience working in Agile development environments.<br>➡️ Experience with popular UI libraries.<br>➡️ Familiarity with Agile methodologies.<br>➡️ Problem-solving skills.<br>➡️ Ability to optimize performance.
 
