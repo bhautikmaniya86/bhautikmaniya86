@@ -14,29 +14,28 @@ Email: bhautikmaniya86@gmail.com
 
 ### Frontend Development:
 
-- Angular <br>
-- Angular.js <br>
-- Bootstrap <br>
-- Chart.js <br>
-- Chakra <br>
-- Sass <br>
+- React <br>
+- React Native <br>
+- React Router <br>
 - NodeJS <br>
 - NextJS <br>
-- NPM <br>
-- React Native <br>
 - Redux <br>
 - JWT <br>
 - Gatsby <br>
 - MUI <br>
-- React <br>
-- Socket.io <br>
+- ANTD <br>
+- Bootstrap <br>
 - Webpack <br>
 - ESLint <br>
 - Swagger <br>
 - Babel <br>
-- React Router <br>
-- MUI <br>
-- ANTD 
+- Sass <br>
+- NPM <br>
+- Socket.io <br>
+- Angular <br>
+- Angular.js <br>
+- Chart.js <br>
+- Chakra <br> 
 
 ### Agile Board
 
